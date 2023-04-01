@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafli Haidar Nashif</h1>
 <h3 align="center">A passionate frontend developer from Surabaya,Indonesia</h3>
-<img align="right" width="400" alt="animated gif" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raflihaidar" alt="raflihaidar" /></a> </p>
+<img align="right" width="300" alt="animated gif" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🌱 I’m currently learning **vue js and typescript**
 
@@ -24,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raflihaidar&show_icons=true&locale=en&layout=compact" alt="raflihaidar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raflihaidar&show_icons=true&locale=en" alt="raflihaidar" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raflihaidar" alt="raflihaidar" /></a> </p>
