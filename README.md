@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafli Haidar Nashif</h1>
 <h3 align="center">A passionate frontend developer from Surabaya,Indonesia</h3>
-<img align="right width="400" alt="animated gif" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
+<img align="right" width="400" alt="animated gif" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raflihaidar" alt="raflihaidar" /></a> </p>
 
