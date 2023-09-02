@@ -3,11 +3,11 @@
 
 <img align="right" width="300" alt="animated gif" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🌱 I’m currently learning **vue js and typescript**
+- 🌱 I’m currently learning **Node js and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raflihaidar/Portofolio](https://github.com/raflihaidar/Portofolio)
 
-- 💬 Ask me about **vanilla, react, and vue**
+- 💬 Ask me about **Javascript, React, and Vue**
 
 - 📫 How to reach me **rafli.haidar30@gmail.com**
 
