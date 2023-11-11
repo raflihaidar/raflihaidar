@@ -3,9 +3,9 @@
 
 <img align="right" width="300" alt="animated gif" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🌱 I’m currently learning **Node js and Typescript**
+- 🌱 I’m currently learning **Vue js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/raflihaidar/Portofolio](https://github.com/raflihaidar/Portofolio)
+- 👨‍💻 All of my projects are available at [https://github.com/raflihaidar/Portofolio](https://portofolio-web-beige.vercel.app/)
 
 - 💬 Ask me about **Javascript, React, and Vue**
 
