@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafli Haidar Nashif</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate full stack developer from Indonesia</h3>
 
 <img align="right" width="300" alt="animated gif" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
