@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://portofolio-web-beige.vercel.app/](https://raflihaidar.my.id)
+- 👨‍💻 All of my projects are available at [https://raflihaidar.my.id](https://raflihaidar.my.id)
 
 - 💬 Ask me about **Javascript, vue, and react**
 
